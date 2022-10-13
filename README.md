@@ -10,6 +10,6 @@
 * [Datasets](https://github.com/Jownao/dive_datascience/tree/main/datasets)  
 * [Laboratório de Análise](https://github.com/Jownao/dive_datascience/tree/main/lab)  
 
-
+* [Materiais dos cursos feitos na alura](https://github.com/Jownao/alura_learns/tree/main/Python_for_data)
 ---------------
 Repositório feito com inspiração no [repertório do professor Adolfo Guimarães](https://github.com/adolfoguimaraes/datascience).
